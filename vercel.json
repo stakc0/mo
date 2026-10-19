@@ -1,5 +1,6 @@
 {
   "framework": null,
+  "outputDirectory": "public",
   "rewrites": [
     { "source": "/stats", "destination": "/index.html" },
     { "source": "/leaderboard", "destination": "/index.html" },
