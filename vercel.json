@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/stats", "destination": "/index.html" },
+    { "source": "/leaderboard", "destination": "/index.html" },
+    { "source": "/methodology", "destination": "/index.html" },
+    { "source": "/pricing", "destination": "/index.html" },
+    { "source": "/support", "destination": "/index.html" },
+    { "source": "/usa", "destination": "/index.html" }
+  ]
+}
